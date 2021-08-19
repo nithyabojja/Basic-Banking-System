@@ -1,0 +1,30 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+#main
+{
+	text-align: center;
+background-color:#f1f7e8;
+font-family:'Courier New', Courier, monospace;
+}
+.my-info{
+    padding: 2rem 5rem;
+}
+
+.btn-info{
+    padding: 1rem 1.2rem;
+    background-color: rgba(240, 240, 155, 0.616)!important;
+    color: rgb(197, 90, 108)!important;
+    margin-left: 5px;
+    padding: 0.75rem;
+    transition: all 0.3s;
+}
+
+.btn-info:hover{
+    background-color: rgb(54, 54, 63)!important;
+}
+h1{
+    background-color: azure;
+}
